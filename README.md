@@ -23,4 +23,5 @@ Contact me at phillab@berkeley.edu to obtain:
 - Pretrained models:
    - Coverage model & Keyword Extractor
    - Fluency model (GPT2 finetuned on news)
+   - Initial Summarizer (finetuned to copy)
 - Final Summarization models (three models: target length 10, 24, 45).
